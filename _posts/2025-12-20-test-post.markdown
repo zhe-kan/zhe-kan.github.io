@@ -1,0 +1,57 @@
+---
+layout: post
+title: "New Post Template"
+date: 2025-12-20 08:00:00 +0000
+category: blog
+tags: [markdown, images, tips]
+---
+
+Welcome! This short example shows simple, useful features for a new blogger using Markdown. It's intentionally small so you can copy sections into your own posts.
+
+## Quick image example
+
+Images make posts friendlier. Here's a simple embedded image (replace the path if your site uses a different folder):
+
+![Markdown example](/assets/images/markdown.jpg "Markdown preview")
+
+> Tip: keep images under 1MB for faster load times and add descriptive alt text for accessibility.
+
+---
+
+## Formatting basics
+
+- Use **bold** for emphasis and *italic* for lighter emphasis.
+- Inline code is helpful for commands: `bundle exec jekyll serve`.
+
+### Code block
+
+```bash
+# serve locally (run in your site folder)
+bundle exec jekyll serve --livereload
+```
+
+## Lists and links
+
+1. Plan your headings.
+2. Add images and examples.
+3. Publish and iterate.
+
+Useful link: [About page](/about/).
+
+## Small table (for quick summaries)
+
+| Feature | Why use it |
+|---|---|
+| Headings | Structure your post so readers can skim |
+| Images | Visual interest and examples |
+| Code blocks | Show exact commands or snippets |
+
+---
+
+## Closing checklist
+
+- [x] Pick a topic
+- [x] Write a short post
+- [ ] Share on social
+
+Thanks for reading — feel free to copy this file and tweak it. Happy blogging! ✨
