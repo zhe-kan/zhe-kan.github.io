@@ -30,4 +30,10 @@ description: Glacier Poem
 也许地球重归冰原<br>
 我不会看到了<br>
 但我衷心祝愿<br>
-人类的子孙与冰川永存
+人类的子孙与冰川永存 
+<div style="height: 80px;"></div>
+<video controls width="100%">
+  <source src="{{ '/assets/videos/cross-glacier.mp4' }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<br>
