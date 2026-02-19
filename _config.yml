@@ -1,6 +1,12 @@
 # main text of home
 title: Zhe Kan
-bio: Sharing my life experiences in China and the US.
+bio: |
+  阚喆 九十年代来美留学，先后取得酒店管理与国际金融硕士学位。曾服务于美国凯悦国际酒店管理集团，后任上海和平饭店副总经理。
+  现定居美国西雅图。在报刊杂志上发表诗歌散文微型小说若干篇（首）。现为西雅图朗诵艺术团团长，美国西北华文笔会理事。
+  <br>
+  <br>
+  Zhe (Steve) Kan came to the United States to study in the 1990s, earning master's degrees in Hotel Management and International Finance. He previously worked for Hyatt International Hotels and later served as Deputy General Manager of the Shanghai Peace Hotel. 
+  He currently resides in Seattle, USA, and has published several poems, essays, and short stories in newspapers and magazines. He is currently the head of the Seattle Recitation Art Troupe and a director of the Northwest Chinese Writers Association of the United States.
 
 # twitter summary info
 description: 
@@ -31,7 +37,7 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: github # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook

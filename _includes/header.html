@@ -17,7 +17,9 @@
         {% endif %}
 
         <h1 class="title">{{ site.title }}</h1>
-        <h2 class="description">{{ site.bio }}</h2>
+        {% if page.title != "Blog" %}
+            <h2 class="description">{{ site.bio }}</h2>
+        {% endif %}
 
         {% include social-links.html %}
     </header>

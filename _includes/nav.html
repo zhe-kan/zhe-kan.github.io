@@ -2,14 +2,14 @@
     <ul class="list">
         {% if page.title != "Home" %}
             <li class="item">
-                <a class="link" href="{{ site.url }}/">Home</a>
+                <a class="link link-bilingual" href="{{ site.url }}/">Home<br>主页</a>
             </li>
         {% endif %}
 
         {% if site.blog == true %}
             {% if page.title != "Blog" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/blog">Blog</a>
+                    <a class="link link-bilingual" href="{{ site.url }}/blog">Published Works<br>作品</a>
                 </li>
             {% endif %}
         {% endif %}
