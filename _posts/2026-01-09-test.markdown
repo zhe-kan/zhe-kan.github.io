@@ -1,1 +1,35 @@
-
+---
+title: "test"
+layout: post
+date: 2025-12-09
+image: 
+headerImage: false
+tag:
+category: blog
+author: zhekan
+description: Glacier Poem
+---
+<br>
+空气纯净、冰凉 <br>
+吸一口寂静 <br>
+只有船在缓缓前行 <br>
+几百米高的冰墙冰柱 <br>
+歪歪斜斜，重重叠叠 <br>
+以难察的速度 <br>
+排山倒海般下移 <br>
+每一刻 <br>
+微妙平衡都可能崩塌 <br>
+寂静的冰裂像短暂的炸雷 <br>
+巨响滚动海面 <br>
+明天，明年，下个世纪<br>
+坠落的冰，会化成水<br>
+时空浩瀚不可度量<br>
+兴衰不过微尘<br>
+也许冰川会融化殆尽<br>
+海水泛滥淹没陆地<br>
+也许地球重归冰原<br>
+我不会看到了<br>
+但我衷心祝愿<br>
+人类的子孙与冰川永存 
+<div style="height: 80px;"></div>
+<br>
